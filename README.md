@@ -1,6 +1,6 @@
 **A brief preface:** This repository has been refactored from a single project into a collection of small projects, each showcasing best practices in the field of ML classification with classic ML and Deep Learning models as well.
 
-# This README file provides brief information about each notebook or folder, outlining their respective task solutions.
+This README file provides brief information about each notebook or folder, outlining their respective task solutions.
 --
 
 `mushrooms_classification.ipynb` contains the implementation of EDA, feature engineering, modeling with classical ML algorithms, and subsequent best model validation. Data source for this small project was UC Irvine Machine Learning Repository with [mushroom dataset](https://archive.ics.uci.edu/dataset/848/secondary+mushroom+dataset). Detailed report with conclusions available [here](https://github.com/elch1k/ml_classification_approaches/blob/main/mushrooms_classification.ipynb).
